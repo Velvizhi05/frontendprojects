@@ -1,0 +1,18 @@
+                                                                            INTERNET CONNECTION STATUS CHECKER
+The Internet Connection Status Checker is a web application designed to monitor and display the status of your internet connection.
+Built using HTML, CSS, and JavaScript, this tool provides real-time updates on your network connection, including status and IP address information.
+The application features a sleek, user-friendly interface that informs you if your connection is stable or experiencing issues. With a visually appealing design and accurate status updates,
+this tool helps ensure you are always aware of your internet connection's performance.
+
+Key Features:
+
+Real-Time Status Check: Monitors and displays current connection status.
+IP Address Information: Shows your current IP address.
+Network Strength Indicator: Provides an estimate of network strength.
+
+
+Technologies Used:
+
+HTML: For structuring the web page.
+CSS: For styling and layout.
+JavaScript: For dynamic functionality and real-time updates.
