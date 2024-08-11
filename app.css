@@ -1,0 +1,29 @@
+body {
+    background-image: url("back.png");
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5); /* Adding shadow to the h1 text */
+    margin: 20px 0; /* Adjust margin for spacing */
+}
+
+.status {
+    border-color: black;
+    padding: 50px;
+    background-color: beige;
+    width: 200px;
+    margin: 60px;
+    border: 20px solid rgba(16, 171, 227, 0.61);
+    box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.3); /* Adding shadow to the container */
+    text-align: center; /* Center text inside the container */
+}
+
+p {
+    text-align: center;
+    color: blue;
+    margin: 20px; /* Add margin for spacing */
+}
